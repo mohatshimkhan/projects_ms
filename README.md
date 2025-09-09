@@ -1,2 +1,2 @@
-# project_ms
+# projects_ms
 Projects Management System project based on Laravel
